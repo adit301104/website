@@ -1,0 +1,51 @@
+body{
+    background-image: "C:\Users\Hp\Desktop\photos\THE.jpg" ("paper.gif");
+}
+
+.ady{
+    align-items: center;
+    font-size: 60px;
+    color: white ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sa{
+    font-size: 40px;
+    color: black ;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    
+}
+.img{
+    align-self: center;
+    
+}
+.about{
+    background-color: lightblue;
+}
+.ME{
+    border: 5px solid red;
+    border-radius: 12px;
+    padding: 8px;
+
+}
+.project{
+    background-color: yellowgreen;
+}
+.ABOUT
+
+{
+   position: absolute;
+   left: 400px;
+  border: 5px solid red;
+    border-radius: 12px;
+    padding: 8px;
+    
+
+}
+.DP
+{
+
+    position: absolute;
+    right: 300PX;
+}
